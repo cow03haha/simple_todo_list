@@ -1,24 +1,5 @@
 # simple_todo_list
 
-## Project setup
-```
-npm install
-```
+**Author: 楊仁杰**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+透過javascript前端框架vue製作，並透過製作簡易代辦清單，了解到vue的基礎語法與特性。
